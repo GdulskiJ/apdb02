@@ -10,6 +10,5 @@ Console.WriteLine(GetAvg([1,2,3,4,5]));
         {
             sum += num;
         }
-
-        return (double)sum / arr.Length;git status
+        return (double)sum / arr.Length;
     }
